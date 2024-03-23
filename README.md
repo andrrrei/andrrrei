@@ -21,18 +21,18 @@ My current projects:
 - [Course work in autocoding LLMs](https://github.com/andrrrei/code_generating_LLMs)
 - [CMC ML course]
 - [VK education NLP course]
-- [BDNS - working on database automation](https://github.com/andrrrei/DSIN)
+- [DSIN - working on database automation](https://github.com/andrrrei/DSIN)
 
 In my repositories you can also find:
 - [Automatic extraction of knowledge from texts course](https://github.com/andrrrei/NLP_basics)
-- [Course on ML for applied tasks (to be uploaded)]
-- [Course on DL basics (to be uploaded)]
 - [Course on Unstructured data analysis](https://github.com/andrrrei/AUD)
 - [Shell realisation](https://github.com/andrrrei/shell)
 - [Interpreter realisation](https://github.com/andrrrei/interpreter)
 - [Course on operating systems and C language](https://github.com/andrrrei/operation_systems)
 - [Course on object oriented programming and C++ language](https://github.com/andrrrei/OOP)
 - [Course on parallel data processing](https://github.com/andrrrei/SKiPOD)
+- [Course on ML for applied tasks (to be uploaded)]
+- [Course on DL basics (to be uploaded)]
 - [Course on numerical methods (to be uploaded)]
 
 
