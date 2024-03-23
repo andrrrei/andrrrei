@@ -30,7 +30,7 @@ In my repositories you can also find:
 - [Course on Unstructured data analysis](https://github.com/andrrrei/AUD)
 - [Shell realisation](https://github.com/andrrrei/shell)
 - [Interpreter realisation](https://github.com/andrrrei/interpreter)
-- [Course on operating systems and C language]([https://github.com/andrrrei/C](https://github.com/andrrrei/operation_systems))
+- [Course on operating systems and C language](https://github.com/andrrrei/operation_systems)
 - [Course on object oriented programming and C++ language](https://github.com/andrrrei/OOP)
 - [Course on parallel data processing]
 
