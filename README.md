@@ -24,7 +24,7 @@ My current projects:
 - [BDNS - working on database automation]() 
 
 In my repositories you can also find:
-- [NLP basics course](https://github.com/andrrrei/NLP)
+- [Automatic extraction of knowledge from texts course](https://github.com/andrrrei/NLP)
 - [Course on ML for applied tasks]()
 - [Course on Unstructured data analysis](https://github.com/andrrrei/DA_NLP)
 - [Shell realisation](https://github.com/andrrrei/Shell)
