@@ -21,7 +21,7 @@ My current projects:
 - [Course work in autocoding LLMs](https://github.com/andrrrei/code_generating_LLMs)
 - [CMC ML course]
 - [VK education NLP course]
-- [BDNS - working on database automation]
+- [BDNS - working on database automation](https://github.com/andrrrei/DSIN)
 
 In my repositories you can also find:
 - [Automatic extraction of knowledge from texts course](https://github.com/andrrrei/NLP_basics)
