@@ -1,6 +1,6 @@
-# Hi there!
+# Hi there! :smiley:
 
-My name is Andrei. Here is some bio:
+:car: My name is Andrei. Here is some bio:
 - Moscow, Russia
 - 20 y. o.
 - Studying at Moscow State University:<br />
@@ -32,7 +32,7 @@ In my repositories you can also find:
 - [Interpreter realisation](https://github.com/andrrrei/interpreter)
 - [Course on operating systems and C language](https://github.com/andrrrei/operation_systems)
 - [Course on object oriented programming and C++ language](https://github.com/andrrrei/OOP)
-- [Course on parallel data processing]
+- [Course on parallel data processing](https://github.com/andrrrei/SKiPOD)
 
 
 ## Some statistics
