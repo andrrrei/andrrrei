@@ -33,7 +33,3 @@ In my repositories you can also find:
 - [Course on object oriented programming and formal languages]()
 - [Course on parallel data processing]()
 
-
-
-
-
