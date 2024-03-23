@@ -19,8 +19,8 @@ Engaged in scientific activities in machine learning in natural language process
 ## Projects and courses
 My current projects:
 - [Course work in autocoding LLMs](https://github.com/andrrrei/code_generating_LLMs)
-- [CMC ML course]
-- [VK education NLP course]
+- [CMC ML course](https://github.com/andrrrei/ML_CMC)
+- [VK education NLP course](https://github.com/andrrrei/VK_NLP)
 - [DSIN - working on database automation](https://github.com/andrrrei/DSIN)
 
 In my repositories you can also find:
