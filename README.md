@@ -33,6 +33,7 @@ In my repositories you can also find:
 - [Course on operating systems and C language](https://github.com/andrrrei/operation_systems)
 - [Course on object oriented programming and C++ language](https://github.com/andrrrei/OOP)
 - [Course on parallel data processing](https://github.com/andrrrei/SKiPOD)
+- [Course on numerical methods (to be uploaded)]
 
 
 ## Some statistics
