@@ -30,7 +30,7 @@ In my repositories you can also find:
 - [Shell realisation](https://github.com/andrrrei/Shell)
 - [Interpreter realisation](https://github.com/andrrrei/Interpreter)
 - [Course on operating systems](https://github.com/andrrrei/C)
-- [Course on object oriented programming and formal languages]()
+- [Course on object oriented programming]()
 - [Course on parallel data processing]()
 
 
