@@ -24,15 +24,16 @@ My current projects:
 - [BDNS - working on database automation]() 
 
 In my repositories you can also find:
-- [Automatic extraction of knowledge from texts course](https://github.com/andrrrei/NLP)
+- [Automatic extraction of knowledge from texts course](https://github.com/andrrrei/NLP_basics)
 - [Course on ML for applied tasks]()
-- [Course on Unstructured data analysis](https://github.com/andrrrei/DA_NLP)
-- [Shell realisation](https://github.com/andrrrei/Shell)
+- [Course on Unstructured data analysis](https://github.com/andrrrei/AUD)
+- [Shell realisation](https://github.com/andrrrei/shell)
 - [Interpreter realisation](https://github.com/andrrrei/interpreter)
-- [Course on operating systems](https://github.com/andrrrei/C)
-- [Course on object oriented programming](https://github.com/andrrrei/cpp)
+- [Course on operating systems and C language]([https://github.com/andrrrei/C](https://github.com/andrrrei/operation_systems))
+- [Course on object oriented programming and C++ language](https://github.com/andrrrei/OOP)
 - [Course on parallel data processing]()
 
 
-
+## Some statistics
+<a href="https://github.com/andrrrei" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrrei&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Programming languages usage" /></a>
 
