@@ -19,19 +19,20 @@ Engaged in scientific activities in machine learning in natural language process
 ## Projects and courses
 My current projects:
 - [Course work in autocoding LLMs](https://github.com/andrrrei/code_generating_LLMs)
-- [CMC ML course]()
-- [VK education NLP course]()
-- [BDNS - working on database automation]() 
+- [CMC ML course]
+- [VK education NLP course]
+- [BDNS - working on database automation]
 
 In my repositories you can also find:
 - [Automatic extraction of knowledge from texts course](https://github.com/andrrrei/NLP_basics)
-- [Course on ML for applied tasks]()
+- [Course on ML for applied tasks]
+- [Course on DL basics]
 - [Course on Unstructured data analysis](https://github.com/andrrrei/AUD)
 - [Shell realisation](https://github.com/andrrrei/shell)
 - [Interpreter realisation](https://github.com/andrrrei/interpreter)
 - [Course on operating systems and C language]([https://github.com/andrrrei/C](https://github.com/andrrrei/operation_systems))
 - [Course on object oriented programming and C++ language](https://github.com/andrrrei/OOP)
-- [Course on parallel data processing]()
+- [Course on parallel data processing]
 
 
 ## Some statistics
