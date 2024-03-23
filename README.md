@@ -25,8 +25,8 @@ My current projects:
 
 In my repositories you can also find:
 - [Automatic extraction of knowledge from texts course](https://github.com/andrrrei/NLP_basics)
-- [Course on ML for applied tasks]
-- [Course on DL basics]
+- [Course on ML for applied tasks (to be uploaded)]
+- [Course on DL basics (to be uploaded)]
 - [Course on Unstructured data analysis](https://github.com/andrrrei/AUD)
 - [Shell realisation](https://github.com/andrrrei/shell)
 - [Interpreter realisation](https://github.com/andrrrei/interpreter)
