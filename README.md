@@ -28,9 +28,9 @@ In my repositories you can also find:
 - [Course on ML for applied tasks]()
 - [Course on Unstructured data analysis](https://github.com/andrrrei/DA_NLP)
 - [Shell realisation](https://github.com/andrrrei/Shell)
-- [Interpreter realisation](https://github.com/andrrrei/Interpreter)
+- [Interpreter realisation](https://github.com/andrrrei/interpreter)
 - [Course on operating systems](https://github.com/andrrrei/C)
-- [Course on object oriented programming]()
+- [Course on object oriented programming](https://github.com/andrrrei/cpp)
 - [Course on parallel data processing]()
 
 
