@@ -1,13 +1,13 @@
 # Hi there!
 
 My name is Andrei. Here is some bio:
-- :ru: Moscow, Russia
-- :smiley: 20 y. o.
-- :book: Studying at Moscow State University:<br />
+- Moscow, Russia
+- 20 y. o.
+- Studying at Moscow State University:<br />
 Faculty of Compututional Mathematics and Cybernetics<br />
 Third year<br />
 Engaged in scientific activities in machine learning in natural language processing<br />
-- :computer: See my career as ML-engineer, [my CV](https://drive.google.com/file/d/18xrNRObmIRy0o8jJOnLIhKTfx9QVcsk_/view?usp=sharing)
+- See my career as ML-engineer, [my CV](https://drive.google.com/file/d/18xrNRObmIRy0o8jJOnLIhKTfx9QVcsk_/view?usp=sharing)
   
 
 :email: How to reach me:
