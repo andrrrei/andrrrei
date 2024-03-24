@@ -31,8 +31,8 @@ In my repositories you can also find:
 - [Course on operating systems and C language](https://github.com/andrrrei/operation_systems)
 - [Course on object oriented programming and C++ language](https://github.com/andrrrei/OOP)
 - [Course on parallel data processing](https://github.com/andrrrei/SKiPOD)
-- [Course on ML for applied tasks (to be uploaded)]
-- [Course on DL basics](https://github.com/andrrrei/DL)
+- [Inter-faculty course on ML for applied tasks](https://github.com/andrrrei/IFC_ML)
+- [Inter-faculty course on DL basics](https://github.com/andrrrei/IFC_DL)
 - [Course on numerical methods](https://github.com/andrrrei/numerical_methods)
 
 
