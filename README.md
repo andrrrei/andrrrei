@@ -33,7 +33,7 @@ In my repositories you can also find:
 - [Course on parallel data processing](https://github.com/andrrrei/SKiPOD)
 - [Course on ML for applied tasks (to be uploaded)]
 - [Course on DL basics (to be uploaded)]
-- [Course on numerical methods (to be uploaded)]
+- [Course on numerical methods](https://github.com/andrrrei/numerical_methods)
 
 
 ## Some statistics
