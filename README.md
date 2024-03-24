@@ -32,7 +32,7 @@ In my repositories you can also find:
 - [Course on object oriented programming and C++ language](https://github.com/andrrrei/OOP)
 - [Course on parallel data processing](https://github.com/andrrrei/SKiPOD)
 - [Course on ML for applied tasks (to be uploaded)]
-- [Course on DL basics (to be uploaded)]
+- [Course on DL basics](https://github.com/andrrrei/DL)
 - [Course on numerical methods](https://github.com/andrrrei/numerical_methods)
 
 
