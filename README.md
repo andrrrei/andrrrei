@@ -7,7 +7,7 @@
 Faculty of Compututional Mathematics and Cybernetics<br />
 Third year<br />
 Engaged in scientific activities in machine learning in natural language processing<br />
-- See my career as ML-engineer, [my CV](https://drive.google.com/file/d/18xrNRObmIRy0o8jJOnLIhKTfx9QVcsk_/view?usp=sharing)
+- See my career as ML-engineer, [my CV]([https://drive.google.com/file/d/18xrNRObmIRy0o8jJOnLIhKTfx9QVcsk_/view?usp=sharing](https://drive.google.com/file/d/1768q8GDITRay_ahFHWjrnlbwK4MZn5GL/view?usp=sharing))
   
 
 :email: How to reach me:
