@@ -2,7 +2,7 @@
 
 :car: My name is Andrei. Here is some bio:
 - Moscow, Russia
-- 20 y. o.
+- 21 y. o.
 - Studying at Moscow State University:<br />
 Faculty of Compututional Mathematics and Cybernetics<br />
 Third year<br />
