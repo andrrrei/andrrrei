@@ -36,6 +36,7 @@ In my repositories you can also find:
 - [Inter-faculty course on ML for applied tasks](https://github.com/andrrrei/IFC_ML)
 - [Inter-faculty course on DL basics](https://github.com/andrrrei/IFC_DL)
 - [Course on numerical methods](https://github.com/andrrrei/numerical_methods)
+
 And other projects.
 
 
