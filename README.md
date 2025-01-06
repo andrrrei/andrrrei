@@ -7,7 +7,7 @@
 Faculty of Compututional Mathematics and Cybernetics<br />
 Third year<br />
 Engaged in scientific activities in machine learning in natural language processing<br />
-- See my career as ML-engineer, [my CV](https://drive.google.com/file/d/1768q8GDITRay_ahFHWjrnlbwK4MZn5GL/view?usp=sharing)
+- Working as ML-engineer in T-Bank, [my CV (outdated version)](https://drive.google.com/file/d/1768q8GDITRay_ahFHWjrnlbwK4MZn5GL/view?usp=sharing)
   
 
 :email: How to reach me:
@@ -17,13 +17,15 @@ Engaged in scientific activities in machine learning in natural language process
 
 
 ## Projects and courses
-My current projects:
+My current project:
+[Diploma on alignment LLM in Russian language](https://github.com/andrrrei/diploma)
+
+
+In my repositories you can also find:
 - [Course work in autocoding LLMs](https://github.com/andrrrei/code_generating_LLMs)
 - [CMC ML course](https://github.com/andrrrei/ML_CMC)
 - [VK education NLP course](https://github.com/andrrrei/VK_NLP)
 - [DSIN - working on database automation](https://github.com/andrrrei/DSIN)
-
-In my repositories you can also find:
 - [Automatic extraction of knowledge from texts course](https://github.com/andrrrei/NLP_basics)
 - [Course on Unstructured data analysis](https://github.com/andrrrei/AUD)
 - [Shell realisation](https://github.com/andrrrei/shell)
@@ -34,6 +36,7 @@ In my repositories you can also find:
 - [Inter-faculty course on ML for applied tasks](https://github.com/andrrrei/IFC_ML)
 - [Inter-faculty course on DL basics](https://github.com/andrrrei/IFC_DL)
 - [Course on numerical methods](https://github.com/andrrrei/numerical_methods)
+And other projects.
 
 
 ## Some statistics
