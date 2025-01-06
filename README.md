@@ -5,7 +5,7 @@
 - 21 y. o.
 - Studying at Moscow State University:<br />
 Faculty of Compututional Mathematics and Cybernetics<br />
-Third year<br />
+Fourth year<br />
 Engaged in scientific activities in machine learning in natural language processing<br />
 - Working as ML-engineer in T-Bank, [my CV (outdated version)](https://drive.google.com/file/d/1768q8GDITRay_ahFHWjrnlbwK4MZn5GL/view?usp=sharing)
   
