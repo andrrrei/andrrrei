@@ -7,7 +7,8 @@ My name is Andrei. About me:
 - B.Sc. in Applied Mathematics and Computer Science, Moscow State University, Faculty of Computational Mathematics and Cybernetics
 - Currently pursuing M.Sc. at MSU  
 - Research focus: natural language processing, with emphasis on LLMs alignment 
-- Working as an ML Engineer at T-Bank (research & development in RAG and LLM systems)  
+- Working as an ML Engineer at T-Bank (research & development in RAG and LLM systems)
+- My [CV](https://drive.google.com/file/d/17mkYPmXsbnxYtdh4inbRWgKIbdh6ng6o/view?usp=sharing) 
 
 
 :email: How to reach me:
