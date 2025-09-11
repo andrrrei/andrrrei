@@ -1,24 +1,25 @@
-# Hi there! :smiley:
+# :smiley: Hi there! 
 
-:car: My name is Andrei. Here is some bio:
-- Moscow, Russia
-- 21 y. o.
-- Studying at Moscow State University:<br />
-Faculty of Compututional Mathematics and Cybernetics<br />
-Fourth year<br />
-Engaged in scientific activities in machine learning in natural language processing<br />
-- Working as ML-engineer in T-Bank, [my CV (outdated version)](https://drive.google.com/file/d/1768q8GDITRay_ahFHWjrnlbwK4MZn5GL/view?usp=sharing)
-  
+:car: My name is Andrei. About me:
+
+- Based in Moscow, Russia  
+- 22 y.o.  
+- B.Sc. in Applied Mathematics and Computer Science, Moscow State University, Faculty of Computational Mathematics and Cybernetics
+- Currently pursuing M.Sc. at MSU  
+- Research focus: natural language processing, with emphasis on LLMs alignment 
+- Working as an ML Engineer at T-Bank (research & development in RAG and LLM systems)  
+
 
 :email: How to reach me:
-- tg: https://t.me/lebedevandrei
-- mail: a.lebedev234@gmail.com
-- VK: https://vk.com/lebedev.andrei
+- Telegram: https://t.me/lebedevandrei
+- Email: a.lebedev234@gmail.com
 
 
-## Projects and courses
-My current project:
-[Diploma on alignment LLM in Russian language](https://github.com/andrrrei/diploma)
+## :rocket: Projects and courses
+
+- **Bachelor’s Thesis:** [Methods for aligning LLMs in Russian language](https://github.com/andrrrei/diploma)  
+
+- **Master’s Thesis (in progress):** Offline RL methods for aligning LLMs (repo coming soon)  
 
 
 In my repositories you can also find:
