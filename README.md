@@ -28,16 +28,12 @@ In my repositories you can also find:
 - [CMC ML course](https://github.com/andrrrei/ML_CMC)
 - [VK education NLP course](https://github.com/andrrrei/VK_NLP)
 - [DSIN - working on database automation](https://github.com/andrrrei/DSIN)
-- [Automatic extraction of knowledge from texts course](https://github.com/andrrrei/NLP_basics)
 - [Course on Unstructured data analysis](https://github.com/andrrrei/AUD)
 - [Shell realisation](https://github.com/andrrrei/shell)
 - [Interpreter realisation](https://github.com/andrrrei/interpreter)
 - [Course on operating systems and C language](https://github.com/andrrrei/operation_systems)
 - [Course on object oriented programming and C++ language](https://github.com/andrrrei/OOP)
 - [Course on parallel data processing](https://github.com/andrrrei/SKiPOD)
-- [Inter-faculty course on ML for applied tasks](https://github.com/andrrrei/IFC_ML)
-- [Inter-faculty course on DL basics](https://github.com/andrrrei/IFC_DL)
-- [Course on numerical methods](https://github.com/andrrrei/numerical_methods)
 
 And other projects.
 
