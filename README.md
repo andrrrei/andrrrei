@@ -8,7 +8,7 @@ My name is Andrei. About me:
 - Currently pursuing M.Sc. at MSU  
 - Research focus: natural language processing, with emphasis on LLMs alignment 
 - Working as an ML Engineer at T-Bank (research & development in RAG and LLM systems)
-- My [CV](https://drive.google.com/file/d/1jyEZ0SIJmKWbkg6DFFcG8N8Z1tS_c_rG/view?usp=sharing) 
+- My [CV](https://drive.google.com/file/d/1GrjIrcFCYLMNrB1gEWIy8xNZmvcbf4ue/view?usp=sharing) 
 
 
 :email: How to reach me:
