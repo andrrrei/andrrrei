@@ -20,7 +20,7 @@ My name is Andrei. About me:
 
 - **Bachelor’s Thesis:** [Methods for aligning LLMs in Russian language](https://github.com/andrrrei/diploma)  
 
-- **Master’s Thesis (in progress):** Online RL methods for aligning LLMs (repo coming soon)  
+- **Master’s Thesis (in progress):** Online RL methods for aligning LLMs  with the Russian language: [first experiments](https://github.com/andrrrei/NEREL-GRPO)  
 
 
 In my repositories you can also find:
