@@ -3,12 +3,12 @@
 My name is Andrei. About me:
 
 - Based in Moscow, Russia  
-- 22 y.o.  
+- 23 y.o.  
 - B.Sc. in Applied Mathematics and Computer Science, Moscow State University, Faculty of Computational Mathematics and Cybernetics
 - Currently pursuing M.Sc. at MSU  
 - Research focus: natural language processing, with emphasis on LLMs alignment 
 - Working as an ML Engineer at T-Bank (research & development in RAG and LLM systems)
-- My [CV](https://drive.google.com/file/d/1GrjIrcFCYLMNrB1gEWIy8xNZmvcbf4ue/view?usp=sharing) 
+- My [CV](https://github.com/andrrrei/CV/cv_en.pdf) 
 
 
 :email: How to reach me:
@@ -20,7 +20,7 @@ My name is Andrei. About me:
 
 - **Bachelor’s Thesis:** [Methods for aligning LLMs in Russian language](https://github.com/andrrrei/diploma)  
 
-- **Master’s Thesis (in progress):** Online RL methods for aligning LLMs  with the Russian language: [first experiments](https://github.com/andrrrei/NEREL-GRPO)  
+- **Master’s Thesis:** [RL Methods for Adapting LLMs to Russian NER](https://github.com/andrrrei/course_work_5)  
 
 
 In my repositories you can also find:
