@@ -9,7 +9,7 @@ My name is Andrei. About me:
 - B.Sc. in Applied Mathematics and Computer Science, Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics
 - Currently pursuing M.Sc. at MSU
 - Research focus: natural language processing, with emphasis on LLMs alignment 
-- My [CV](https://github.com/andrrrei/CV/blob/main/cv_en.pdf) 
+- My [resume](https://github.com/andrrrei/Resume/blob/main/resume_Andrei_Lebedev.pdf) 
 
 
 :email: How to reach me:
