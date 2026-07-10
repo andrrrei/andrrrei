@@ -8,7 +8,7 @@ My name is Andrei. About me:
 - Working as an AI Engineer at T-Bank (research & development in RAG and LLM systems)
 - B.Sc. in Applied Mathematics and Computer Science, Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics
 - Currently pursuing M.Sc. at MSU
-- Research focus: natural language processing, with emphasis on LLMs alignment 
+- Research focus: LLMs alignment
 - My [resume](https://github.com/andrrrei/Resume/blob/main/resume_Andrei_Lebedev.pdf) 
 
 
