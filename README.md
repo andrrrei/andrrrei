@@ -2,12 +2,13 @@
 
 My name is Andrei. About me:
 
+- AI reseach engineer
 - Based in Moscow, Russia  
-- 23 y.o.  
-- B.Sc. in Applied Mathematics and Computer Science, Moscow State University, Faculty of Computational Mathematics and Cybernetics
-- Currently pursuing M.Sc. at MSU  
+- 23 y.o.
+- Working as an AI Engineer at T-Bank (research & development in RAG and LLM systems)
+- B.Sc. in Applied Mathematics and Computer Science, Lomonosov Moscow State University, Faculty of Computational Mathematics and Cybernetics
+- Currently pursuing M.Sc. at MSU
 - Research focus: natural language processing, with emphasis on LLMs alignment 
-- Working as an ML Engineer at T-Bank (research & development in RAG and LLM systems)
 - My [CV](https://github.com/andrrrei/CV/blob/main/cv_en.pdf) 
 
 
@@ -28,10 +29,8 @@ In my repositories you can also find:
 - [CMC ML course](https://github.com/andrrrei/ML_CMC)
 - [VK education NLP course](https://github.com/andrrrei/VK_NLP)
 - [DSIN - working on database automation](https://github.com/andrrrei/DSIN)
-- [Course on Unstructured data analysis](https://github.com/andrrrei/AUD)
 - [Course on operating systems and C language](https://github.com/andrrrei/operation_systems)
 - [Course on object oriented programming and C++ language](https://github.com/andrrrei/OOP)
-- [Course on parallel data processing](https://github.com/andrrrei/SKiPOD)
 
 And other projects.
 
