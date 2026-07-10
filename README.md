@@ -13,8 +13,8 @@ My name is Andrei. About me:
 
 
 :email: How to reach me:
-- Telegram: https://t.me/lebedevandrei
 - Email: a.lebedev234@gmail.com
+- Telegram: https://t.me/lebedevandrei
 
 
 ## :rocket: Projects and courses
